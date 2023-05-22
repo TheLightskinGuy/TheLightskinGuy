@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheLightskinGuy
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning CSS/JS
+- 🌱 I’m currently into React.js Framework
 - 💞️ I’m looking to collaborate on FrontEnd Projects
-- 📫 How to reach me? Mail: ianisny11@yahoo.com
+- 📫 How to reach me? Mail: ianisjeunessehq11@gmail.com
 
 <!---
 TheLightskinGuy/TheLightskinGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
